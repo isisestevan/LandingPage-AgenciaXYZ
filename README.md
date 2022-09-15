@@ -1,4 +1,4 @@
-# LandingPage-AgenciaXYZ 
+# Agência XYZ 
 
 ## SOBRE:
 Projeto de uma Landing Page de uma Agência
