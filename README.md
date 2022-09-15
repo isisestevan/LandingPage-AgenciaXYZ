@@ -1,11 +1,11 @@
 # LandingPage-AgenciaXYZ 
 
-##SOBRE:
+## SOBRE:
 Projeto de uma Landing Page de uma Agência
 
-##Linguagens:
+## Linguagens:
 -HTML
 -CSS 
 
-##Veja a Landing Page aqui:
+## Veja a Landing Page aqui:
 https://isisestevan.github.io/LandingPage-AgenciaXYZ/
